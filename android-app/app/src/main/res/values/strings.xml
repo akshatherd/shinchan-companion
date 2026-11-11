@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shinchan MUSE</string>
+    <string name="accessibility_service_description">Shinchan MUSE reads visible interface labels and screen locations to learn user-approved routines and perform requested taps.</string>
+</resources>

@@ -1,0 +1,4 @@
+{
+  "animations": [],
+  "warning": "No FBX clips are installed. Smooth A-pose state motion is active. Add files such as idle.fbx, walk.fbx, greet.fbx, listen.fbx, think.fbx, talk.fbx, poke.fbx, present.fbx, dance.fbx, confused.fbx, and sleep.fbx under public/animations/ and list each in manifest.json."
+}

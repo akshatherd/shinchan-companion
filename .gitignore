@@ -1,0 +1,10 @@
+node_modules/ 
+overlay-web/node_modules/ 
+overlay-web/dist/ 
+android-app/.gradle/ 
+android-app/build/ 
+android-app/app/build/ 
+android-app/local.properties 
+__pycache__/ 
+*.pyc 
+.DS_Store 
